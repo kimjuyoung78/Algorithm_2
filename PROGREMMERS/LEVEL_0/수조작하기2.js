@@ -19,4 +19,3 @@ function solution(numLog) {
   }
   return answer;
 }
-// https://www.perplexity.ai/search/munje-seolmyeong-jeongsu-ngwa-3GfyT5I6SrGjuf3TT2Yl_A
